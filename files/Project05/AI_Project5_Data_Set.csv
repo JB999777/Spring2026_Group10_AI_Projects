@@ -1,0 +1,327 @@
+respondent_id,age_group,tech_comfort,education_level,primary_device,password_manager_use,mfa_method,phishing_awareness_training,privacy_settings_level,public_wifi_use,backup_frequency,software_update_habit,adblocker_installed,antivirus_status,password_reuse_count,unique_passwords_estimate,suspicious_link_clicks_last_6mo,privacy_habit_score_0_100,cyber_risk_score_0_100,experienced_security_incident_last_12mo,wants_simple_non_technical_guides_1_10,wants_habit_reminders_1_10,trust_in_online_safety_advice_1_10,feels_overwhelmed_by_cyber_advice_1_10,likely_to_use_habit_platform_1_10
+U677134,55-64,Medium,Graduate,Windows PC,Never,Hardware key,Occasionally,Mostly hardened,Never,Monthly,When reminded,Yes,Built-in only,4,9.0,2.0,79.0,62.4,No,7,7,6,8,4.1
+U764727,18-24,Low,Bachelor's,Mac,Regularly,None,Never,Default,Rarely,Never,Delayed,No,,4,9.0,3.0,37.0,87.2,Yes,9,8,7,8,5.6
+U964448,35-44,Medium,HS or less,iPhone,Sometimes,SMS,Once,Some changes,Rarely,Monthly,When reminded,No,None,2,12.0,3.0,42.0,59.9,Yes,8,7,7,6,5.2
+U720049,25-34,Low,HS or less,Windows PC,Never,None,Never,Default,Sometimes,Never,Delayed,No,Built-in only,2,5.0,,25.0,84.6,No,8,9,5,9,4.0
+U652019,35-44,Low,Some college,Windows PC,Never,Authenticator app,Once,Some changes,Rarely,Monthly,When reminded,Yes,None,4,8.0,5.0,63.0,78.7,Yes,7,6,5,7,2.9
+U922015,35-44,Medium,HS or less,Android,Tried once,Authenticator app,Once,Some changes,Never,Never,When reminded,Yes,None,4,8.0,3.0,45.0,69.2,No,7,10,6,8,4.6
+U320992,25-34,High,Bachelor's,Android,Regularly,SMS,Occasionally,Some changes,Often,Never,Delayed,Yes,Paid suite,2,14.0,3.0,54.0,68.6,Yes,6,6,8,5,5.5
+U814159,18-24,High,HS or less,iPhone,Sometimes,Authenticator app,Never,Some changes,Sometimes,Daily,Auto-update,No,None,3,9.0,,34.0,72.6,No,4,5,6,6,2.0
+U357698,35-44,Low,Some college,Windows PC,Regularly,None,Occasionally,Default,Rarely,Monthly,Delayed,No,Built-in only,6,10.0,2.0,32.0,86.4,No,9,9,5,7,3.8
+U701180,45-54,Medium,Some college,Android,Sometimes,Authenticator app,Once,Default,Never,Weekly,Auto-update,No,None,2,11.0,5.0,25.0,61.8,No,8,6,5,4,4.5
+U666771,45-54,Medium,Some college,Android,Tried once,Authenticator app,Occasionally,Default,Never,Never,Delayed,Yes,None,2,6.0,4.0,38.0,68.2,Yes,8,8,4,5,5.0
+U285576,35-44,Medium,Graduate,Android,Tried once,SMS,Never,Default,Rarely,Monthly,Delayed,No,None,2,9.0,3.0,32.0,82.0,No,9,9,6,9,5.6
+U446577,25-34,Medium,HS or less,Windows PC,Regularly,None,Once,Default,Sometimes,Never,Auto-update,No,Paid suite,2,14.0,4.0,28.0,66.7,Yes,5,6,6,8,3.7
+U993764,55-64,Medium,Bachelor's,iPad/Tablet,Never,None,Never,Some changes,Rarely,Weekly,When reminded,No,Built-in only,3,9.0,3.0,54.0,77.0,Yes,8,5,6,9,3.4
+U016906,25-34,High,Bachelor's,Chromebook,Never,Authenticator app,Occasionally,Default,Sometimes,Weekly,Delayed,Yes,Built-in only,0,7.0,2.0,39.0,56.3,No,4,3,6,4,3.1
+U116557,45-54,Low,Graduate,iPhone,Never,None,Once,Default,Sometimes,Monthly,Delayed,No,None,1,7.0,2.0,12.0,71.1,No,8,8,7,10,4.7
+U534556,45-54,High,HS or less,Windows PC,Tried once,SMS,Occasionally,Mostly hardened,Rarely,Never,Auto-update,No,Paid suite,0,15.0,2.0,70.0,43.1,No,6,6,7,5,5.2
+U575656,45-54,High,HS or less,Android,Sometimes,Authenticator app,Never,Default,Never,Monthly,When reminded,Yes,Built-in only,2,7.0,2.0,14.0,58.2,Yes,5,9,7,3,5.2
+U487843,25-34,Medium,Bachelor's,Android,Sometimes,SMS,Once,Some changes,Often,Daily,When reminded,Yes,Built-in only,3,6.0,4.0,66.0,76.3,Yes,8,7,8,3,5.5
+U833087,18-24,Medium,HS or less,Android,Regularly,Hardware key,Occasionally,Default,Sometimes,Weekly,When reminded,Yes,None,4,8.0,3.0,28.0,79.2,No,6,6,8,6,5.3
+U576835,35-44,Medium,HS or less,iPhone,Regularly,None,Never,Default,Rarely,Monthly,When reminded,No,,2,10.0,4.0,32.0,67.2,Yes,6,8,7,7,4.8
+U849769,65,Medium,Graduate,Android,Tried once,SMS,Never,Some changes,Sometimes,Weekly,Delayed,No,None,3,6.0,5.0,57.0,70.8,Yes,7,6,6,4,5.5
+U582948,55-64,High,,iPad/Tablet,Never,Authenticator app,Occasionally,Mostly hardened,Rarely,Daily,Auto-update,No,Built-in only,0,8.0,2.0,70.0,48.4,No,3,7,6,6,2.7
+U789275,18-24,Low,HS or less,iPhone,Tried once,SMS,Once,Some changes,Sometimes,Weekly,Delayed,No,Built-in only,3,8.0,4.0,49.0,83.5,Yes,8,9,5,4,6.6
+U834489,35-44,Low,Graduate,iPhone,Never,None,Once,Some changes,Often,Never,Delayed,No,Built-in only,2,10.0,3.0,73.0,76.0,Yes,7,8,7,6,5.1
+U411531,55-64,Medium,Some college,iPad/Tablet,Never,SMS,Occasionally,Some changes,Sometimes,Monthly,When reminded,No,None,4,8.0,5.0,59.0,81.5,No,8,8,8,5,5.3
+U481015,45-54,High,Some college,Android,Never,Hardware key,Never,Default,Never,Never,When reminded,Yes,None,2,7.0,4.0,45.0,59.4,Yes,7,6,7,4,5.2
+U764205,35-44,Low,Some college,Mac,Sometimes,None,Never,Default,Rarely,Monthly,Delayed,No,Built-in only,2,6.0,4.0,36.0,76.9,Yes,9,8,7,9,4.1
+U307167,45-54,High,HS or less,Mac,Regularly,SMS,Occasionally,Mostly hardened,Never,Daily,When reminded,Yes,Paid suite,3,6.0,3.0,81.0,61.5,Yes,7,7,8,5,3.8
+U369810,45-54,Medium,Some college,iPad/Tablet,Sometimes,None,Never,Some changes,Never,Monthly,Auto-update,No,None,5,9.0,4.0,57.0,86.7,No,5,7,5,4,4.3
+U216198,45-54,Low,Graduate,iPhone,Tried once,SMS,Never,Some changes,Sometimes,Monthly,When reminded,Yes,None,4,7.0,3.0,58.0,80.3,Yes,9,7,7,8,4.3
+U633655,65,Low,Some college,Windows PC,Sometimes,None,Never,Some changes,Sometimes,Monthly,When reminded,No,Paid suite,3,,4.0,69.0,85.7,Yes,10,7,9,8,5.9
+U092664,35-44,Medium,Graduate,Android,Never,SMS,Never,Default,Never,Weekly,Delayed,Yes,None,1,11.0,4.0,28.0,70.8,Yes,6,6,6,7,3.0
+U838417,18-24,Low,Some college,Mac,Sometimes,Authenticator app,Monthly,Mostly hardened,Often,Never,Delayed,No,Built-in only,1,6.0,1.0,69.0,54.2,Yes,8,9,6,6,5.7
+U453584,55-64,Low,Graduate,iPhone,Sometimes,None,Never,Some changes,Never,Never,Delayed,No,Built-in only,5,10.0,5.0,69.0,78.4,Yes,7,8,5,8,5.6
+U635093,18-24,Low,Graduate,Android,Regularly,None,Never,Default,Rarely,Never,Delayed,Yes,None,4,11.0,4.0,31.0,89.4,No,9,2,3,9,3.2
+U695351,55-64,Medium,Bachelor's,Mac,Never,Authenticator app,Once,Some changes,Never,Daily,Delayed,No,None,3,8.0,,57.0,75.2,Yes,6,9,6,4,5.3
+U803616,45-54,High,HS or less,Android,Regularly,Authenticator app,Monthly,Mostly hardened,Rarely,Monthly,Auto-update,No,Built-in only,2,11.0,3.0,76.0,51.4,No,6,5,6,5,3.8
+U465054,45-54,Low,Some college,iPhone,Sometimes,Authenticator app,Never,Some changes,Never,Never,Delayed,No,Built-in only,4,8.0,5.0,34.0,78.7,No,8,7,8,10,4.8
+U453422,65,Medium,Some college,iPad/Tablet,Regularly,SMS,Once,Some changes,Rarely,Never,Delayed,Yes,Built-in only,2,11.0,2.0,53.0,67.7,No,5,9,6,7,4.2
+U417851,55-64,High,HS or less,iPhone,Sometimes,Authenticator app,Monthly,Default,Sometimes,Never,When reminded,Yes,,2,14.0,5.0,29.0,73.3,Yes,6,7,6,5,4.0
+U142821,35-44,Medium,Some college,Windows PC,Sometimes,Hardware key,Monthly,Some changes,Never,Weekly,Auto-update,No,Built-in only,3,10.0,,44.0,67.6,No,6,9,7,9,4.2
+U577433,65,Low,HS or less,Android,Never,None,Never,Default,Sometimes,Never,When reminded,Yes,None,3,2.0,3.0,,81.1,Yes,8,9,6,8,5.0
+U383740,25-34,Low,Bachelor's,iPhone,Never,None,Never,Some changes,Rarely,Daily,Delayed,Yes,None,4,7.0,5.0,30.0,83.0,Yes,8,7,4,6,3.8
+U403245,18-24,Medium,Some college,Android,Tried once,Authenticator app,Occasionally,Some changes,Rarely,Never,When reminded,No,Built-in only,2,11.0,3.0,41.0,62.0,No,8,7,8,8,4.8
+U971865,25-34,Medium,HS or less,iPhone,Never,SMS,Never,Default,Often,Never,When reminded,No,None,3,11.0,4.0,33.0,79.8,Yes,5,4,2,4,3.5
+U863989,65,Low,Some college,Android,Sometimes,SMS,Once,Default,Often,Never,Delayed,Yes,,4,5.0,3.0,41.0,93.6,Yes,10,6,8,7,6.3
+U831995,35-44,Low,Some college,Windows PC,Never,SMS,Never,Default,Rarely,Never,Delayed,No,Built-in only,4,10.0,4.0,35.0,89.1,No,9,8,6,10,5.9
+U959853,18-24,Low,Bachelor's,Windows PC,Never,SMS,Occasionally,Default,Rarely,Never,When reminded,No,Paid suite,6,7.0,3.0,31.0,95.0,Yes,9,9,3,7,4.1
+U549592,18-24,Medium,Some college,Windows PC,Regularly,SMS,Once,Some changes,Rarely,Never,Auto-update,Yes,None,3,14.0,3.0,59.0,61.2,No,6,6,6,4,4.4
+U789120,18-24,Low,Some college,iPhone,Sometimes,SMS,Once,Mostly hardened,Never,Monthly,Auto-update,Yes,None,4,9.0,3.0,65.0,89.1,Yes,7,9,7,7,5.4
+U982947,55-64,Low,Some college,iPad/Tablet,Tried once,None,Never,Default,Often,Never,Delayed,No,Paid suite,5,10.0,5.0,20.0,100.0,No,6,7,6,9,3.8
+U153925,35-44,Medium,Some college,Android,Tried once,None,Never,Mostly hardened,Rarely,Daily,When reminded,No,None,1,16.0,5.0,,64.5,No,9,7,6,5,4.9
+U815455,45-54,Low,Bachelor's,Windows PC,Sometimes,Authenticator app,Never,Default,Never,Never,Auto-update,No,Built-in only,3,10.0,5.0,37.0,65.0,No,9,8,7,7,4.8
+U467699,35-44,Medium,Graduate,Android,Tried once,SMS,Never,Some changes,Never,Weekly,Delayed,Yes,None,2,8.0,4.0,60.0,67.4,No,9,7,10,6,7.2
+U737481,25-34,Medium,Bachelor's,Android,Sometimes,SMS,Never,Some changes,Never,Never,When reminded,Yes,Built-in only,3,15.0,3.0,51.0,82.6,Yes,8,7,7,7,4.3
+U839257,25-34,Low,HS or less,Windows PC,Tried once,None,Never,Some changes,Sometimes,Weekly,Delayed,Yes,None,5,7.0,4.0,60.0,83.4,No,10,8,6,9,6.0
+U181314,65,Medium,Bachelor's,iPad/Tablet,Regularly,SMS,Occasionally,Mostly hardened,Sometimes,Monthly,Delayed,No,None,3,10.0,3.0,85.0,58.3,Yes,6,8,4,5,5.2
+U520494,25-34,Medium,Graduate,Android,Sometimes,SMS,Never,Default,Never,Daily,When reminded,Yes,Built-in only,2,12.0,,,63.5,Yes,6,5,4,5,2.6
+U191464,25-34,Medium,Bachelor's,Android,Regularly,None,Never,Some changes,Often,Never,Delayed,Yes,Built-in only,2,9.0,2.0,32.0,82.9,Yes,6,5,4,6,2.7
+U764712,65,Low,Bachelor's,Mac,Never,SMS,Never,Default,Rarely,Never,When reminded,Yes,Built-in only,4,6.0,4.0,36.0,82.5,Yes,10,5,6,7,5.3
+U558387,65,High,Graduate,iPhone,Never,Authenticator app,Once,Mostly hardened,Sometimes,Never,Auto-update,Yes,Built-in only,3,8.0,3.0,60.0,77.0,No,5,7,5,4,3.8
+U272326,65,Low,Bachelor's,Windows PC,Never,None,Once,Mostly hardened,Sometimes,Weekly,Auto-update,No,Built-in only,5,10.0,3.0,77.0,90.5,Yes,7,7,4,8,4.1
+U471637,45-54,High,HS or less,iPhone,Regularly,Authenticator app,Occasionally,Default,Rarely,Daily,Delayed,No,Built-in only,1,,1.0,30.0,46.0,No,5,10,3,5,3.3
+U070648,35-44,Medium,Some college,Windows PC,Never,Authenticator app,Occasionally,Default,Rarely,Never,Auto-update,Yes,Paid suite,2,11.0,1.0,45.0,54.9,Yes,10,9,6,5,5.8
+U352646,45-54,Medium,Bachelor's,Android,Never,SMS,Never,Mostly hardened,Never,Never,Delayed,Yes,None,3,6.0,3.0,78.0,71.3,Yes,6,6,6,5,4.8
+U104564,45-54,Low,Bachelor's,Windows PC,Tried once,None,Never,Default,Never,Never,Delayed,Yes,None,3,7.0,4.0,22.0,95.9,No,9,5,6,6,5.7
+U951748,65,Medium,Some college,Chromebook,Tried once,None,Never,Default,Never,Monthly,Auto-update,Yes,None,2,9.0,3.0,31.0,72.1,Yes,7,6,6,3,5.0
+U051556,65,Low,Some college,iPhone,Never,SMS,Monthly,Mostly hardened,Rarely,Monthly,Auto-update,Yes,None,4,5.0,3.0,84.0,82.8,No,8,9,7,6,5.8
+U643048,35-44,Medium,Some college,Android,Never,None,Occasionally,Some changes,Never,Weekly,When reminded,No,None,2,10.0,2.0,62.0,66.6,No,7,9,7,4,6.0
+U582701,65,Low,HS or less,iPad/Tablet,Never,None,Never,Some changes,Sometimes,Monthly,Auto-update,No,None,5,10.0,2.0,62.0,100.0,No,8,4,7,6,4.4
+U964465,35-44,Medium,HS or less,iPhone,Never,SMS,Once,Default,Sometimes,Daily,Delayed,Yes,None,9,5.0,3.0,36.0,99.9,No,6,8,6,2,5.8
+U066951,18-24,Medium,HS or less,Windows PC,Regularly,SMS,Once,Default,Often,Weekly,When reminded,No,None,2,7.0,5.0,21.0,80.5,Yes,5,6,4,4,3.5
+U645522,18-24,Medium,Some college,iPhone,Tried once,Authenticator app,Never,Default,Sometimes,Monthly,Auto-update,No,Paid suite,2,8.0,4.0,29.0,68.0,Yes,6,8,6,6,4.1
+U775629,18-24,Medium,Some college,Windows PC,Never,None,Never,Some changes,Rarely,Weekly,When reminded,Yes,Built-in only,2,10.0,3.0,47.0,63.8,No,8,7,8,6,5.5
+U857814,65,Low,Some college,Windows PC,Never,None,Monthly,Default,Rarely,Weekly,Delayed,Yes,Paid suite,4,7.0,,37.0,86.3,Yes,9,8,6,7,5.4
+U705451,25-34,High,Some college,Android,Regularly,SMS,Once,Default,Rarely,Monthly,Auto-update,No,Built-in only,2,12.0,4.0,54.0,57.3,No,4,7,6,5,2.8
+U934393,25-34,Medium,HS or less,Mac,Regularly,SMS,Occasionally,Some changes,Often,Never,Delayed,Yes,None,3,11.0,3.0,60.0,71.8,Yes,5,4,6,6,2.1
+U106777,25-34,Low,HS or less,iPhone,Tried once,Hardware key,Occasionally,Default,Sometimes,Never,When reminded,Yes,Built-in only,4,10.0,3.0,43.0,84.8,No,6,10,6,5,4.6
+U926907,45-54,High,HS or less,Android,Sometimes,None,Occasionally,Some changes,Rarely,Weekly,Auto-update,No,Built-in only,3,10.0,3.0,47.0,72.4,No,6,10,5,5,5.6
+U153744,65,High,HS or less,Android,Never,Authenticator app,Occasionally,Some changes,Sometimes,Never,Auto-update,Yes,None,1,14.0,2.0,56.0,56.2,No,5,5,7,5,3.9
+U407987,18-24,Low,Graduate,Android,Sometimes,SMS,Occasionally,Default,Never,Weekly,Auto-update,No,None,2,9.0,1.0,38.0,61.6,No,9,8,5,10,4.8
+U749659,65,Low,Some college,Android,Never,None,Never,Default,Never,Never,Delayed,No,Built-in only,3,6.0,3.0,33.0,84.6,No,10,7,5,9,5.3
+U487701,35-44,Low,Bachelor's,iPhone,Tried once,SMS,Once,Some changes,Rarely,Monthly,When reminded,Yes,Built-in only,4,8.0,4.0,77.0,80.1,Yes,7,5,9,6,3.9
+U017312,25-34,High,Bachelor's,Windows PC,Sometimes,SMS,Never,Mostly hardened,Never,Never,Auto-update,Yes,Built-in only,3,2.0,5.0,63.0,72.5,Yes,7,7,3,3,4.4
+U316057,25-34,Medium,Some college,iPad/Tablet,Never,None,Once,Default,Rarely,Daily,Delayed,No,Built-in only,1,15.0,3.0,46.0,69.8,Yes,8,8,9,8,4.3
+U840335,25-34,Medium,HS or less,iPad/Tablet,Regularly,None,Never,Default,Sometimes,Never,When reminded,No,Built-in only,5,6.0,5.0,38.0,97.3,Yes,9,7,6,7,4.8
+U351992,35-44,Low,Some college,iPhone,Never,None,Occasionally,Some changes,Never,Monthly,When reminded,No,None,3,7.0,3.0,83.0,72.6,No,9,10,6,5,6.0
+U017780,25-34,Low,,Windows PC,Sometimes,SMS,Occasionally,Some changes,Rarely,Monthly,Delayed,No,Paid suite,5,3.0,2.0,60.0,99.2,Yes,10,7,5,9,4.1
+U857536,65,Medium,HS or less,Windows PC,Sometimes,Authenticator app,Occasionally,Some changes,Rarely,Never,When reminded,Yes,Built-in only,3,12.0,3.0,35.0,73.0,Yes,7,6,4,5,3.9
+U307131,55-64,Medium,Bachelor's,Windows PC,Tried once,SMS,Never,Default,Rarely,Daily,When reminded,No,Built-in only,1,6.0,5.0,49.0,57.2,No,8,4,3,6,4.6
+U794872,25-34,High,Some college,iPhone,Never,SMS,Monthly,Some changes,Sometimes,Daily,Delayed,Yes,Paid suite,2,13.0,2.0,56.0,72.0,No,7,7,10,4,5.3
+U265666,18-24,High,Graduate,Android,Regularly,Authenticator app,Once,Default,Never,Monthly,Auto-update,No,None,1,8.0,3.0,48.0,53.8,No,5,6,6,5,3.1
+U902224,45-54,Low,Graduate,Windows PC,Sometimes,None,Never,Default,Rarely,Never,Delayed,No,Built-in only,3,11.0,3.0,43.0,77.0,No,10,7,2,7,5.5
+U648321,18-24,Medium,Bachelor's,Mac,Tried once,SMS,Never,Default,Never,Weekly,Auto-update,No,Built-in only,3,13.0,5.0,18.0,77.0,No,7,4,8,7,4.0
+U543702,35-44,Medium,Bachelor's,iPad/Tablet,Sometimes,None,Never,Mostly hardened,Never,Monthly,Auto-update,Yes,None,2,12.0,4.0,70.0,61.6,No,5,8,4,6,3.3
+U317787,35-44,Low,Graduate,Mac,Sometimes,Authenticator app,Occasionally,Default,Often,Monthly,Delayed,Yes,,4,14.0,3.0,50.0,79.6,No,9,6,4,10,4.9
+U386075,45-54,High,Some college,iPad/Tablet,Regularly,Authenticator app,Occasionally,Mostly hardened,Often,Weekly,Auto-update,Yes,None,3,9.0,1.0,85.0,57.0,No,6,7,9,3,4.5
+U294811,35-44,Medium,Some college,Android,Tried once,SMS,Once,Some changes,Sometimes,Weekly,Delayed,Yes,Built-in only,3,7.0,3.0,69.0,86.4,No,7,7,5,6,4.3
+U982364,55-64,Low,Some college,iPad/Tablet,Tried once,SMS,Never,Some changes,Sometimes,Never,Auto-update,No,None,4,14.0,3.0,36.0,96.3,Yes,8,7,7,6,4.9
+U749092,25-34,Medium,Bachelor's,iPhone,Tried once,Authenticator app,Never,Default,Sometimes,Never,Delayed,No,None,3,13.0,5.0,17.0,86.2,Yes,7,8,5,4,4.9
+U636655,55-64,High,HS or less,iPad/Tablet,Regularly,Authenticator app,Occasionally,Mostly hardened,Rarely,Weekly,Auto-update,No,None,3,12.0,3.0,73.0,60.5,No,6,6,7,6,4.0
+U604561,25-34,Low,HS or less,iPhone,Tried once,None,Never,Some changes,Sometimes,Never,Auto-update,No,Built-in only,2,6.0,3.0,72.0,69.4,No,8,6,6,10,5.0
+U571284,25-34,Low,Bachelor's,iPhone,Never,None,Occasionally,Some changes,Never,Never,When reminded,No,Built-in only,2,,3.0,63.0,70.8,No,6,7,8,7,3.9
+U469417,35-44,High,Bachelor's,Windows PC,Regularly,SMS,Once,Default,Sometimes,Weekly,When reminded,No,None,2,13.0,4.0,36.0,66.7,Yes,5,6,8,4,3.7
+U453240,35-44,Medium,Some college,Android,Never,SMS,Never,Some changes,Rarely,Daily,Delayed,Yes,None,3,4.0,3.0,51.0,75.8,No,7,6,4,7,4.2
+U815516,65,Low,HS or less,iPhone,Regularly,SMS,Once,Mostly hardened,Never,Daily,Delayed,Yes,,3,10.0,4.0,87.0,65.4,No,10,8,8,7,5.3
+U926019,35-44,Low,HS or less,Mac,Never,SMS,Monthly,Default,Never,Monthly,Delayed,Yes,Built-in only,3,18.0,1.0,22.0,79.8,No,8,8,3,7,3.6
+U821591,25-34,Medium,HS or less,Android,Tried once,SMS,Occasionally,Mostly hardened,Often,Never,Auto-update,No,Built-in only,2,7.0,3.0,74.0,62.9,No,5,8,7,5,5.0
+U850486,35-44,Medium,HS or less,iPad/Tablet,Tried once,Authenticator app,Occasionally,Some changes,Sometimes,Daily,When reminded,No,None,4,13.0,2.0,64.0,70.1,Yes,5,6,5,8,3.6
+U541513,25-34,High,HS or less,Mac,Sometimes,SMS,Occasionally,Default,Sometimes,Weekly,Delayed,No,Built-in only,1,10.0,3.0,51.0,61.9,No,7,4,7,4,2.5
+U408607,18-24,Low,Graduate,Windows PC,Never,SMS,Never,Default,Rarely,Daily,When reminded,Yes,None,5,6.0,4.0,29.0,93.4,Yes,7,7,5,10,3.6
+U067222,45-54,Medium,Bachelor's,iPhone,Never,SMS,Once,Some changes,Never,Daily,When reminded,No,None,1,18.0,4.0,52.0,66.7,No,10,5,6,5,3.8
+U537641,18-24,Medium,Bachelor's,Mac,Never,None,Once,Some changes,Often,Daily,Auto-update,Yes,Paid suite,12,8.0,3.0,53.0,97.5,No,5,6,7,6,4.2
+U602757,65,Low,HS or less,Windows PC,Tried once,SMS,Once,Default,Rarely,Never,Delayed,No,None,4,,4.0,26.0,85.7,Yes,8,6,5,7,3.8
+U791991,55-64,Low,Bachelor's,Android,Never,None,Monthly,Default,Sometimes,Monthly,When reminded,Yes,Built-in only,3,8.0,0.0,22.0,87.0,Yes,7,8,5,7,4.9
+U181152,45-54,Medium,Bachelor's,iPhone,Never,None,Once,Mostly hardened,Rarely,Weekly,Auto-update,Yes,None,4,10.0,3.0,,86.3,Yes,5,6,7,8,4.6
+U618723,25-34,Low,Bachelor's,Windows PC,Tried once,None,Never,Default,Never,Weekly,When reminded,Yes,Paid suite,4,9.0,3.0,36.0,81.9,Yes,7,9,7,9,6.1
+U957972,18-24,Low,Some college,Android,Sometimes,SMS,Once,Default,Sometimes,Monthly,Delayed,Yes,None,3,16.0,,20.0,77.8,Yes,9,8,7,7,5.7
+U393199,18-24,Medium,Some college,Mac,Regularly,SMS,Monthly,Some changes,Rarely,Monthly,Delayed,Yes,None,2,11.0,3.0,41.0,57.0,Yes,6,5,4,5,3.5
+U093794,45-54,Medium,Bachelor's,Windows PC,Sometimes,SMS,Once,Default,Never,Weekly,Delayed,No,None,2,10.0,3.0,42.0,61.5,No,8,5,7,10,4.7
+U771856,35-44,Low,Graduate,Android,Never,Hardware key,Once,Default,Never,Never,When reminded,No,Built-in only,3,10.0,4.0,42.0,78.2,No,10,6,6,8,5.3
+U338051,55-64,Medium,Graduate,Android,Never,Authenticator app,Never,Default,Never,Monthly,When reminded,Yes,Built-in only,1,12.0,6.0,30.0,60.9,Yes,7,7,4,8,3.6
+U606954,18-24,Low,Some college,Android,Tried once,SMS,Once,Some changes,Rarely,Never,When reminded,Yes,None,3,5.0,3.0,58.0,73.3,No,7,8,7,8,4.3
+U490888,65,Low,Graduate,iPad/Tablet,Tried once,None,Once,Default,Often,Never,Delayed,No,Built-in only,4,7.0,3.0,46.0,99.7,Yes,8,8,7,9,5.0
+U751599,35-44,Low,Some college,iPhone,Tried once,None,Never,Default,Never,Never,When reminded,Yes,None,5,8.0,3.0,33.0,96.6,Yes,9,6,6,8,5.2
+U190007,25-34,Low,Bachelor's,Android,Never,None,Never,Default,Rarely,Never,Delayed,Yes,None,4,8.0,4.0,20.0,86.1,No,8,6,7,7,4.0
+U561726,35-44,Medium,HS or less,Android,Sometimes,Authenticator app,Once,Default,Rarely,Daily,When reminded,Yes,Built-in only,3,6.0,3.0,16.0,70.6,No,8,6,7,4,4.2
+U671929,55-64,Low,Some college,Windows PC,Never,Authenticator app,Once,Default,Sometimes,Monthly,When reminded,No,Paid suite,4,11.0,3.0,,89.3,No,10,8,6,9,6.7
+U812338,65,Medium,Bachelor's,iPhone,Tried once,Authenticator app,Once,Mostly hardened,Never,Monthly,When reminded,No,None,2,8.0,4.0,70.0,59.3,No,8,10,8,9,5.0
+U387804,35-44,High,HS or less,Android,Sometimes,Authenticator app,Monthly,Default,Sometimes,Daily,Auto-update,No,None,3,10.0,1.0,41.0,55.0,No,7,6,5,6,4.7
+U284020,55-64,Low,Bachelor's,iPhone,Never,SMS,Never,Default,Sometimes,Never,When reminded,No,Built-in only,4,6.0,5.0,41.0,80.7,Yes,10,7,6,9,4.4
+U295622,65,High,Graduate,Chromebook,Sometimes,SMS,Never,Some changes,Never,Daily,Delayed,No,None,1,16.0,4.0,42.0,51.5,No,8,6,8,5,5.5
+U232322,35-44,High,Bachelor's,Windows PC,Regularly,Authenticator app,Occasionally,Some changes,Never,Daily,Auto-update,Yes,Built-in only,0,15.0,1.0,64.0,34.9,No,6,7,5,6,4.0
+U039778,55-64,Low,HS or less,Android,Never,None,Never,Default,Rarely,Weekly,Delayed,No,,4,9.0,3.0,41.0,100.0,Yes,8,8,9,6,5.8
+U459650,25-34,Medium,Some college,iPhone,Sometimes,None,Once,Some changes,Rarely,Never,Delayed,Yes,Built-in only,3,11.0,2.0,70.0,82.2,No,8,6,5,5,3.3
+U175929,18-24,Low,Bachelor's,Android,Tried once,Authenticator app,Once,Mostly hardened,Sometimes,Weekly,When reminded,Yes,Built-in only,5,4.0,3.0,73.0,76.3,Yes,10,8,5,5,6.9
+U422209,45-54,Medium,HS or less,Chromebook,Never,Authenticator app,Occasionally,Some changes,Never,Never,Auto-update,Yes,None,2,10.0,3.0,59.0,56.6,Yes,7,5,6,4,3.1
+U423569,25-34,High,Some college,iPhone,Tried once,None,Occasionally,Some changes,Rarely,Weekly,Auto-update,Yes,Paid suite,2,6.0,,81.0,71.0,Yes,6,3,4,6,2.2
+U958185,65,Low,Some college,Windows PC,Never,None,Never,Default,Rarely,Monthly,When reminded,Yes,Built-in only,3,9.0,,26.0,86.7,Yes,9,8,6,9,5.7
+U907742,18-24,Medium,Some college,Android,Never,Authenticator app,Occasionally,Some changes,Sometimes,Monthly,Delayed,Yes,None,2,5.0,2.0,38.0,71.1,No,6,4,8,5,4.9
+U295325,45-54,Medium,Bachelor's,Windows PC,Regularly,SMS,Occasionally,Some changes,Never,Never,When reminded,No,,3,12.0,4.0,59.0,69.7,No,6,5,7,7,4.5
+U457589,25-34,Medium,Some college,Android,Never,None,Never,Mostly hardened,Rarely,Never,Auto-update,No,None,4,6.0,5.0,,85.0,No,6,8,7,6,4.1
+U744288,45-54,Low,Some college,iPhone,Never,None,Once,Some changes,Rarely,Never,When reminded,Yes,Built-in only,4,12.0,3.0,65.0,92.6,Yes,8,7,6,9,4.6
+U327088,25-34,High,HS or less,Windows PC,Sometimes,Authenticator app,Never,Mostly hardened,Sometimes,Weekly,Auto-update,No,Built-in only,2,3.0,4.0,100.0,61.2,Yes,7,5,5,4,4.2
+U506290,25-34,Medium,Graduate,Chromebook,Sometimes,None,Once,Mostly hardened,Often,Never,When reminded,No,None,2,8.0,2.0,62.0,75.1,Yes,7,5,7,5,5.3
+U239842,18-24,Medium,Bachelor's,iPhone,Tried once,SMS,Never,Some changes,Never,Never,When reminded,Yes,Paid suite,2,11.0,5.0,62.0,57.6,Yes,5,10,4,5,3.6
+U646935,35-44,Low,Some college,iPhone,Never,SMS,Never,Default,Sometimes,Never,When reminded,No,None,4,10.0,3.0,21.0,86.3,Yes,9,8,7,8,5.5
+U123913,25-34,Medium,Bachelor's,iPhone,Tried once,SMS,Occasionally,Some changes,Sometimes,Monthly,Auto-update,No,Built-in only,5,6.0,2.0,,74.7,No,8,6,5,8,5.0
+U134589,55-64,High,Bachelor's,iPhone,Sometimes,SMS,Occasionally,Some changes,Rarely,Daily,When reminded,No,Built-in only,3,11.0,3.0,52.0,66.1,No,5,5,5,5,4.1
+U336887,35-44,Medium,HS or less,iPhone,Never,Authenticator app,Occasionally,Default,Never,Never,When reminded,Yes,Built-in only,2,9.0,3.0,27.0,70.9,No,7,8,8,6,5.1
+U087717,35-44,Medium,Some college,Windows PC,Regularly,SMS,Once,Mostly hardened,Sometimes,Daily,When reminded,Yes,None,3,10.0,3.0,77.0,80.6,No,6,7,7,6,4.3
+U160270,35-44,Medium,HS or less,Android,Tried once,SMS,Never,Some changes,Rarely,Monthly,Delayed,Yes,None,3,10.0,4.0,57.0,83.8,Yes,6,7,7,5,4.4
+U479568,35-44,Medium,Some college,Chromebook,Sometimes,Hardware key,Never,Mostly hardened,Rarely,Monthly,Auto-update,Yes,Paid suite,4,7.0,3.0,58.0,71.7,No,10,7,6,4,6.2
+U192641,25-34,Medium,,iPad/Tablet,Never,None,Never,Mostly hardened,Never,Monthly,Auto-update,Yes,None,3,6.0,5.0,67.0,70.3,Yes,8,6,6,5,5.3
+U483091,18-24,Low,HS or less,iPhone,Sometimes,SMS,Never,Default,Rarely,Daily,Delayed,Yes,Built-in only,2,11.0,4.0,70.0,67.2,No,10,5,6,10,4.4
+U805498,55-64,Low,,iPhone,Never,Authenticator app,Never,Default,Rarely,Daily,Delayed,Yes,Built-in only,4,4.0,3.0,34.0,86.9,No,9,8,4,6,4.7
+U193370,25-34,Medium,HS or less,Android,Sometimes,None,Occasionally,Default,Often,Never,Auto-update,Yes,None,3,5.0,,27.0,82.6,Yes,4,7,4,3,3.9
+U299169,18-24,Medium,Some college,iPad/Tablet,Sometimes,SMS,Occasionally,Default,Sometimes,Never,When reminded,Yes,Built-in only,5,5.0,4.0,40.0,100.0,Yes,6,8,6,9,3.5
+U895364,18-24,Medium,Graduate,iPhone,Never,None,Once,Mostly hardened,Never,Never,When reminded,No,Built-in only,2,10.0,3.0,77.0,70.5,Yes,9,7,6,7,3.8
+U241859,55-64,Low,Bachelor's,Windows PC,Regularly,SMS,Never,Default,Rarely,Never,Delayed,No,None,3,5.0,3.0,39.0,87.2,Yes,8,9,5,7,4.3
+U436077,25-34,Low,Bachelor's,Windows PC,Never,SMS,Never,Some changes,Rarely,Never,Delayed,Yes,None,3,6.0,6.0,53.0,77.4,Yes,7,7,6,8,4.4
+U323233,18-24,Low,Bachelor's,Android,Never,None,Never,Default,Rarely,Monthly,Delayed,Yes,None,2,10.0,3.0,31.0,83.6,No,9,5,8,6,6.2
+U618151,18-24,Low,Graduate,iPad/Tablet,Never,SMS,Never,Default,Sometimes,Never,When reminded,Yes,Built-in only,4,7.0,3.0,36.0,79.8,Yes,7,9,5,7,6.0
+U882971,45-54,High,HS or less,iPad/Tablet,Tried once,Authenticator app,Never,Some changes,Rarely,Weekly,When reminded,Yes,Paid suite,0,,4.0,42.0,63.4,Yes,6,5,7,4,4.0
+U679270,25-34,Low,,Android,Sometimes,SMS,Never,Default,Sometimes,Never,Delayed,No,None,5,6.0,5.0,30.0,98.0,No,6,10,5,9,3.7
+U792217,35-44,Medium,Graduate,Windows PC,Sometimes,Authenticator app,Occasionally,Default,Rarely,Weekly,Delayed,Yes,,3,3.0,3.0,39.0,80.6,Yes,6,8,4,5,4.4
+U734881,25-34,Low,Bachelor's,iPhone,Tried once,None,Once,Some changes,Sometimes,Never,When reminded,Yes,None,3,7.0,4.0,59.0,80.8,Yes,7,9,7,8,4.7
+U463969,55-64,Low,Some college,iPhone,Tried once,SMS,Occasionally,Mostly hardened,Rarely,Monthly,Delayed,Yes,Built-in only,4,5.0,4.0,64.0,82.0,Yes,10,6,6,6,5.5
+U123214,45-54,Medium,Some college,Mac,Never,None,Monthly,Mostly hardened,Rarely,Weekly,When reminded,No,None,3,12.0,1.0,76.0,76.3,No,7,7,4,5,4.5
+U119541,25-34,Low,Bachelor's,iPhone,Never,SMS,Never,Default,Rarely,Never,Delayed,No,None,2,12.0,5.0,38.0,64.2,No,9,7,2,10,3.9
+U487704,45-54,High,Some college,iPhone,Sometimes,Authenticator app,Monthly,Some changes,Sometimes,Monthly,Delayed,No,None,2,11.0,2.0,24.0,67.5,Yes,6,6,9,5,5.0
+U018345,25-34,Medium,Graduate,Android,Sometimes,SMS,Once,Some changes,Sometimes,Daily,When reminded,No,None,3,11.0,5.0,57.0,71.7,Yes,8,8,8,6,5.7
+U473250,35-44,Low,Some college,Windows PC,Never,SMS,Never,Default,Sometimes,Never,When reminded,Yes,None,3,13.0,1.0,25.0,99.6,No,7,7,6,9,5.3
+U570623,18-24,Medium,Bachelor's,iPad/Tablet,Never,None,Once,Some changes,Rarely,Daily,When reminded,No,Paid suite,2,12.0,3.0,55.0,65.7,No,6,7,6,5,5.0
+U446857,18-24,Medium,HS or less,iPhone,Tried once,None,Never,Some changes,Rarely,Daily,Auto-update,Yes,Paid suite,5,4.0,1.0,51.0,95.7,Yes,7,9,7,7,4.4
+U942481,35-44,Low,HS or less,Android,Sometimes,SMS,Never,Default,Rarely,Monthly,Delayed,Yes,,4,9.0,4.0,46.0,83.1,No,8,5,6,9,4.3
+U370831,35-44,Medium,Graduate,Windows PC,Never,Authenticator app,Occasionally,Default,Sometimes,Never,Delayed,No,None,3,7.0,3.0,46.0,73.2,Yes,7,7,5,6,5.9
+U338351,18-24,High,Some college,Windows PC,Never,SMS,Occasionally,Mostly hardened,Rarely,Daily,Auto-update,No,None,0,15.0,3.0,80.0,37.4,No,5,6,8,3,4.0
+U953851,45-54,Medium,Some college,Mac,Regularly,None,Occasionally,Some changes,Often,Never,Delayed,Yes,None,3,6.0,1.0,54.0,77.1,No,9,6,7,6,4.1
+U672246,45-54,Low,HS or less,Android,Never,Authenticator app,Never,Some changes,Sometimes,Monthly,Auto-update,Yes,None,4,9.0,4.0,65.0,75.5,Yes,10,6,5,8,4.8
+U672171,18-24,Low,Bachelor's,Windows PC,Never,Authenticator app,Never,Default,Often,Never,When reminded,Yes,Built-in only,3,12.0,2.0,22.0,70.0,No,7,5,4,5,3.0
+U665129,35-44,Low,HS or less,iPhone,Never,None,Never,Some changes,Rarely,Never,Delayed,Yes,Built-in only,3,12.0,3.0,49.0,80.5,No,6,8,7,9,3.5
+U977102,18-24,Low,Graduate,Windows PC,Never,SMS,Never,Default,Rarely,Never,When reminded,No,Built-in only,4,5.0,4.0,39.0,84.1,No,10,7,7,9,4.3
+U122113,35-44,Medium,Bachelor's,Android,Regularly,Authenticator app,Occasionally,Some changes,Rarely,Monthly,When reminded,No,Built-in only,2,9.0,2.0,60.0,55.1,No,9,7,4,6,5.0
+U033225,35-44,Low,Graduate,iPhone,Sometimes,None,Monthly,Default,Rarely,Monthly,Delayed,Yes,None,3,9.0,0.0,42.0,70.0,Yes,7,7,4,8,5.1
+U190506,25-34,Low,Some college,Android,Regularly,None,Never,Default,Rarely,Monthly,Delayed,Yes,,4,6.0,3.0,36.0,82.1,No,8,8,5,6,5.6
+U531425,45-54,High,Graduate,Windows PC,Tried once,None,Occasionally,Mostly hardened,Rarely,Never,When reminded,Yes,Built-in only,3,4.0,3.0,69.0,69.6,No,7,6,8,4,4.3
+U587206,35-44,Low,Some college,iPhone,Sometimes,Authenticator app,Never,Default,Never,Never,Auto-update,No,None,10,6.0,,23.0,98.7,Yes,10,7,4,7,3.2
+U216005,18-24,Medium,HS or less,iPhone,Never,SMS,Once,Some changes,Rarely,Daily,Auto-update,No,None,3,3.0,1.0,69.0,78.1,No,7,9,7,6,6.0
+U243160,35-44,Medium,Some college,iPhone,Sometimes,None,Occasionally,Default,Rarely,Daily,When reminded,Yes,Built-in only,4,6.0,3.0,54.0,76.2,Yes,7,8,6,8,4.0
+U980924,18-24,High,HS or less,iPhone,Sometimes,SMS,Monthly,Mostly hardened,Rarely,Weekly,When reminded,No,None,3,15.0,1.0,65.0,61.0,No,7,6,7,3,5.5
+U348451,35-44,Medium,Bachelor's,iPhone,Never,SMS,Once,Default,Never,Never,Delayed,No,Built-in only,3,7.0,5.0,40.0,88.2,Yes,7,6,6,6,3.3
+U917117,45-54,Medium,HS or less,iPad/Tablet,Tried once,None,Never,Mostly hardened,Sometimes,Monthly,Auto-update,Yes,Built-in only,4,7.0,4.0,89.0,85.6,Yes,6,8,6,3,4.8
+U266313,35-44,Low,Bachelor's,Android,Never,Authenticator app,Once,Some changes,Rarely,Daily,Delayed,No,None,5,2.0,3.0,48.0,88.3,No,10,6,7,9,5.0
+U836068,18-24,High,Some college,Android,Never,Authenticator app,Monthly,Default,Never,Never,Auto-update,Yes,None,0,11.0,0.0,25.0,47.9,No,6,7,5,4,4.6
+U370803,45-54,Low,HS or less,Windows PC,Tried once,SMS,Never,Mostly hardened,Sometimes,Monthly,When reminded,Yes,Paid suite,2,8.0,6.0,,66.2,Yes,9,6,7,9,4.2
+U146433,18-24,High,HS or less,Windows PC,Regularly,Authenticator app,Once,Mostly hardened,Rarely,Daily,When reminded,Yes,Built-in only,0,,4.0,80.0,45.4,No,7,5,7,2,3.4
+U947700,25-34,Medium,HS or less,Windows PC,Never,SMS,Never,Some changes,Sometimes,Monthly,Delayed,No,Built-in only,3,10.0,3.0,47.0,86.5,Yes,8,6,7,10,4.3
+U756400,65,Medium,Graduate,Mac,Regularly,SMS,Never,Some changes,Rarely,Monthly,Auto-update,No,Built-in only,2,11.0,4.0,55.0,68.2,No,9,4,7,7,3.4
+U019204,45-54,Medium,HS or less,iPad/Tablet,Tried once,None,Once,Default,Never,Weekly,Delayed,No,Built-in only,3,12.0,3.0,37.0,82.2,Yes,7,6,4,8,3.9
+U614638,45-54,High,HS or less,iPhone,Sometimes,SMS,Monthly,Mostly hardened,Sometimes,Never,When reminded,Yes,None,2,16.0,1.0,93.0,59.1,No,7,7,7,3,5.2
+U858348,25-34,Low,Some college,Mac,Tried once,None,Never,Default,Rarely,Never,Auto-update,No,None,3,13.0,3.0,19.0,80.2,Yes,9,8,7,5,6.6
+U212923,55-64,Low,Bachelor's,Android,Never,Authenticator app,Never,Default,Rarely,Monthly,Delayed,Yes,Built-in only,4,10.0,4.0,23.0,91.2,Yes,8,7,7,7,4.4
+U250254,18-24,Low,,iPhone,Tried once,None,Never,Some changes,Never,Never,Delayed,Yes,,3,12.0,3.0,39.0,82.9,No,8,7,5,10,3.3
+U964682,45-54,Medium,Bachelor's,Windows PC,Never,SMS,Once,Mostly hardened,Rarely,Monthly,When reminded,Yes,None,2,8.0,4.0,71.0,67.0,No,6,8,8,5,5.4
+U131767,35-44,High,Bachelor's,iPhone,Sometimes,SMS,Occasionally,Mostly hardened,Never,Weekly,Auto-update,Yes,None,2,12.0,2.0,70.0,43.1,Yes,5,6,5,4,2.8
+U583668,25-34,Medium,HS or less,Windows PC,Never,SMS,Never,Mostly hardened,Rarely,Monthly,When reminded,No,None,2,12.0,4.0,61.0,69.6,Yes,7,7,6,7,4.3
+U170211,45-54,High,Some college,Windows PC,Sometimes,Authenticator app,Never,Mostly hardened,Sometimes,Monthly,Auto-update,No,None,1,13.0,4.0,81.0,48.1,No,6,7,8,3,4.1
+U303068,65,High,HS or less,Mac,Never,None,Occasionally,Mostly hardened,Rarely,Daily,Auto-update,No,Built-in only,2,11.0,2.0,67.0,71.1,Yes,6,8,5,4,4.6
+U490920,55-64,High,Bachelor's,Android,Regularly,SMS,Once,Mostly hardened,Rarely,Daily,Delayed,Yes,Built-in only,2,11.0,3.0,62.0,62.4,No,6,7,8,3,4.5
+U306765,35-44,Medium,Bachelor's,iPhone,Sometimes,None,Once,Default,Never,Never,Auto-update,Yes,Built-in only,1,13.0,5.0,15.0,75.9,No,8,7,2,7,4.7
+U677565,55-64,Low,Graduate,Chromebook,Never,Authenticator app,Never,Some changes,Sometimes,Weekly,When reminded,Yes,Built-in only,3,8.0,2.0,,73.2,No,9,8,6,8,5.9
+U573682,55-64,Medium,Bachelor's,iPhone,Sometimes,SMS,Never,Some changes,Sometimes,Monthly,Auto-update,No,None,5,5.0,3.0,45.0,78.8,Yes,9,8,5,9,4.6
+U856545,25-34,Medium,Bachelor's,iPhone,Regularly,SMS,Once,Default,Rarely,Never,Delayed,Yes,None,3,6.0,,,83.7,No,5,7,6,5,4.7
+U793430,25-34,Medium,HS or less,Windows PC,Sometimes,Authenticator app,Never,Mostly hardened,Sometimes,Never,Delayed,Yes,None,1,12.0,5.0,57.0,67.3,Yes,9,8,8,7,6.3
+U795155,25-34,Low,Graduate,iPhone,Regularly,SMS,Never,Some changes,Never,Monthly,Delayed,Yes,None,3,14.0,4.0,56.0,66.7,No,8,8,8,9,5.0
+U669826,25-34,Low,Bachelor's,Mac,Sometimes,Authenticator app,Never,Default,Never,Monthly,Delayed,Yes,None,5,9.0,4.0,31.0,93.1,Yes,9,10,6,7,6.1
+U220712,45-54,Low,Bachelor's,iPhone,Never,None,Once,Default,Rarely,Never,Delayed,No,None,4,6.0,4.0,38.0,90.0,Yes,8,7,3,9,4.5
+U694995,45-54,Medium,,iPhone,Tried once,Hardware key,Monthly,Default,Sometimes,Never,Delayed,Yes,None,3,13.0,3.0,,83.9,Yes,7,9,7,7,4.0
+U794958,25-34,Medium,Bachelor's,iPad/Tablet,Sometimes,SMS,Never,Some changes,Never,Never,When reminded,Yes,Built-in only,3,14.0,4.0,79.0,69.2,No,5,9,5,5,5.1
+U324574,18-24,High,Bachelor's,iPad/Tablet,Never,SMS,Monthly,Default,Rarely,Weekly,Delayed,No,Paid suite,2,9.0,2.0,52.0,69.8,No,6,6,5,5,5.1
+U157663,35-44,High,HS or less,iPhone,Never,SMS,Occasionally,Mostly hardened,Sometimes,Weekly,When reminded,No,None,4,15.0,1.0,62.0,73.0,Yes,7,7,7,5,4.4
+U287489,18-24,High,HS or less,iPhone,Sometimes,None,Never,Mostly hardened,Rarely,Monthly,When reminded,Yes,None,3,18.0,2.0,82.0,59.9,No,6,6,5,6,2.7
+U363722,65,Low,Some college,Windows PC,Never,None,Never,Mostly hardened,Rarely,Monthly,Delayed,No,Paid suite,4,6.0,3.0,69.0,77.2,Yes,10,7,8,4,6.6
+U203916,25-34,Low,Graduate,iPhone,Never,SMS,Never,Default,Never,Monthly,When reminded,Yes,Built-in only,4,9.0,1.0,40.0,76.0,Yes,8,8,3,9,4.6
+U070712,45-54,Low,Bachelor's,iPad/Tablet,Tried once,SMS,Never,Default,Rarely,Daily,Delayed,No,None,4,2.0,4.0,51.0,94.0,Yes,8,6,5,9,3.4
+U653631,45-54,Medium,Bachelor's,iPhone,Never,SMS,Never,Some changes,Sometimes,Never,When reminded,Yes,None,3,7.0,3.0,53.0,85.7,Yes,6,7,7,9,4.1
+U171150,35-44,Medium,HS or less,Windows PC,Never,SMS,Never,Some changes,Rarely,Monthly,When reminded,Yes,Built-in only,3,5.0,3.0,41.0,81.5,No,10,6,7,4,5.6
+U840265,65,High,Bachelor's,Android,Regularly,SMS,Occasionally,Some changes,Sometimes,Daily,Auto-update,No,None,1,10.0,2.0,56.0,48.4,No,8,4,5,4,3.9
+U967249,18-24,Low,Bachelor's,iPhone,Tried once,SMS,Never,Some changes,Rarely,Never,Delayed,Yes,Built-in only,3,5.0,2.0,54.0,88.6,No,9,10,6,9,5.2
+U653188,25-34,Medium,Some college,iPhone,Sometimes,None,Occasionally,Mostly hardened,Rarely,Weekly,Delayed,Yes,Paid suite,3,6.0,3.0,70.0,81.2,Yes,8,3,7,10,4.4
+U347284,45-54,Medium,HS or less,Android,Regularly,SMS,Once,Some changes,Rarely,Monthly,Delayed,No,Built-in only,1,11.0,3.0,72.0,53.8,No,8,5,6,5,4.4
+U364761,25-34,High,Some college,Android,Sometimes,Authenticator app,Occasionally,Default,Often,Monthly,When reminded,No,Built-in only,1,14.0,4.0,37.0,61.0,Yes,6,5,7,3,5.3
+U124037,65,Low,HS or less,Chromebook,Never,None,Once,Default,Never,Monthly,When reminded,Yes,None,2,6.0,3.0,46.0,69.9,No,10,10,7,6,6.2
+U158388,35-44,High,Some college,iPhone,Sometimes,SMS,Monthly,Mostly hardened,Rarely,Weekly,Auto-update,Yes,None,2,6.0,2.0,86.0,55.6,No,6,3,8,9,3.0
+U720548,45-54,Medium,Graduate,Mac,Sometimes,SMS,Never,Some changes,Rarely,Weekly,Auto-update,No,None,4,8.0,3.0,44.0,69.2,No,7,8,5,9,3.6
+U326638,25-34,Medium,Graduate,iPad/Tablet,Tried once,SMS,Monthly,Some changes,Never,Never,Auto-update,No,,5,6.0,1.0,46.0,92.0,No,7,7,5,7,5.9
+U967233,25-34,High,HS or less,Android,Sometimes,SMS,Occasionally,Mostly hardened,Rarely,Weekly,Auto-update,Yes,None,2,7.0,2.0,87.0,58.1,Yes,7,6,7,3,6.3
+U620890,65,Medium,HS or less,iPhone,Never,Hardware key,Never,Default,Rarely,Never,Delayed,Yes,,2,14.0,5.0,56.0,65.9,No,6,7,3,7,3.6
+U058626,35-44,Medium,,iPad/Tablet,Never,Authenticator app,Never,Default,Rarely,Weekly,Delayed,Yes,None,2,13.0,3.0,25.0,75.6,No,6,7,4,6,4.3
+U508192,35-44,Medium,Some college,Mac,Regularly,Authenticator app,Occasionally,Some changes,Sometimes,Never,When reminded,No,None,3,2.0,3.0,55.0,73.7,Yes,5,9,6,5,4.6
+U553236,18-24,Medium,HS or less,iPad/Tablet,Never,None,Never,Some changes,Rarely,Monthly,Delayed,Yes,None,2,14.0,5.0,58.0,71.4,Yes,7,6,6,7,3.8
+U259315,45-54,Low,Graduate,Windows PC,Sometimes,None,Never,Some changes,Sometimes,Never,Delayed,Yes,None,3,8.0,2.0,,81.0,No,7,7,9,9,4.3
+U184508,65,Medium,Some college,Android,Regularly,None,Occasionally,Default,Sometimes,Weekly,When reminded,No,Built-in only,6,7.0,3.0,45.0,88.9,Yes,6,8,5,5,4.6
+U564111,25-34,Low,Graduate,iPad/Tablet,Tried once,SMS,Never,Default,Often,Weekly,Delayed,No,None,1,10.0,4.0,47.0,78.4,No,10,6,4,7,4.5
+U691095,55-64,Low,Bachelor's,Windows PC,Sometimes,SMS,Occasionally,Some changes,Rarely,Never,Delayed,Yes,None,4,6.0,2.0,53.0,80.0,No,9,7,8,9,6.0
+U599663,55-64,Low,Bachelor's,Android,Never,None,Never,Default,Rarely,Never,Delayed,Yes,None,4,7.0,4.0,43.0,93.3,No,8,8,8,9,5.9
+U283373,45-54,High,Some college,Mac,Sometimes,SMS,Occasionally,Some changes,Often,Weekly,When reminded,No,None,0,9.0,3.0,56.0,60.7,Yes,6,6,8,3,4.7
+U765111,45-54,Medium,Bachelor's,Windows PC,Sometimes,None,Once,Default,Rarely,Weekly,When reminded,No,Paid suite,2,10.0,4.0,42.0,73.0,Yes,6,5,5,6,2.9
+U132670,65,Medium,Graduate,Android,Never,SMS,Once,Default,Sometimes,Monthly,Auto-update,Yes,Built-in only,3,6.0,3.0,31.0,85.2,No,6,7,6,4,3.3
+U563534,25-34,Medium,HS or less,Chromebook,Regularly,SMS,Occasionally,Some changes,Never,Never,Delayed,No,None,5,5.0,3.0,43.0,87.3,Yes,5,7,6,6,4.5
+U508659,25-34,Low,Some college,iPhone,Never,SMS,Never,Default,Sometimes,Never,When reminded,Yes,Paid suite,3,9.0,2.0,35.0,90.8,Yes,7,5,6,4,5.1
+U325913,25-34,Medium,Bachelor's,Android,Tried once,Authenticator app,Occasionally,Mostly hardened,Often,Monthly,Auto-update,Yes,Built-in only,4,9.0,3.0,72.0,79.2,No,6,8,7,5,5.2
+U864704,65,Low,Bachelor's,Windows PC,Tried once,SMS,Once,Mostly hardened,Rarely,Never,Delayed,Yes,Built-in only,4,13.0,3.0,72.0,77.2,No,7,7,5,10,4.5
+U690952,25-34,Medium,Some college,iPad/Tablet,Tried once,None,Once,Some changes,Never,Monthly,When reminded,No,Built-in only,2,11.0,2.0,70.0,63.6,No,7,8,7,5,5.9
+U102055,55-64,Low,Bachelor's,Windows PC,Never,None,Never,Default,Never,Weekly,Delayed,Yes,Built-in only,5,7.0,5.0,15.0,83.4,No,6,7,6,9,2.9
+U118728,18-24,High,HS or less,Windows PC,Tried once,Hardware key,Once,Default,Never,Weekly,Auto-update,Yes,None,3,14.0,3.0,22.0,71.2,Yes,4,9,9,5,4.7
+U103318,65,Medium,HS or less,iPhone,Never,Authenticator app,Monthly,Some changes,Rarely,Monthly,Delayed,Yes,None,2,,2.0,56.0,52.4,Yes,8,6,6,6,4.5
+U347558,45-54,High,Some college,Windows PC,Regularly,SMS,Once,Some changes,Sometimes,Weekly,When reminded,Yes,None,1,12.0,2.0,63.0,49.4,No,6,10,7,3,6.0
+U468226,55-64,Medium,Some college,Android,Never,SMS,Never,Default,Never,Monthly,Delayed,No,None,3,4.0,5.0,36.0,79.7,No,6,6,5,6,3.6
+U785713,35-44,Low,Graduate,iPad/Tablet,Never,Hardware key,Never,Default,Sometimes,Never,Delayed,Yes,None,3,10.0,3.0,33.0,66.9,No,8,8,8,8,6.2
+U251716,55-64,Medium,Bachelor's,Windows PC,Sometimes,Hardware key,Once,Mostly hardened,Sometimes,Weekly,Auto-update,No,None,1,8.0,4.0,64.0,58.8,No,5,6,7,6,3.8
+U277603,25-34,Low,HS or less,Chromebook,Sometimes,None,Never,Default,Sometimes,Never,Delayed,Yes,None,2,8.0,4.0,31.0,79.3,No,10,8,4,8,5.2
+U717023,25-34,Low,Graduate,Windows PC,Never,SMS,Never,Default,Sometimes,Never,When reminded,Yes,Built-in only,4,5.0,5.0,22.0,91.5,Yes,5,10,5,8,4.5
+U283665,25-34,High,Some college,iPhone,Tried once,SMS,Occasionally,Mostly hardened,Rarely,Weekly,Auto-update,Yes,Built-in only,2,14.0,3.0,84.0,46.4,No,6,7,8,4,4.9
+U471700,18-24,Medium,Graduate,Windows PC,Never,Authenticator app,Occasionally,Some changes,Never,Monthly,Delayed,No,,2,5.0,3.0,50.0,63.5,Yes,5,7,6,7,4.5
+U008771,18-24,Low,Graduate,iPad/Tablet,Sometimes,None,Never,Default,Rarely,Never,When reminded,No,Built-in only,2,9.0,3.0,41.0,72.8,Yes,9,7,6,7,4.5
+U265399,35-44,Medium,Some college,Android,Sometimes,SMS,Never,Mostly hardened,Often,Monthly,Delayed,No,None,2,8.0,6.0,81.0,73.7,Yes,6,8,9,6,6.3
+U547778,45-54,Medium,HS or less,iPad/Tablet,Tried once,SMS,Occasionally,Default,Rarely,Monthly,Delayed,No,None,3,7.0,2.0,50.0,82.8,Yes,7,8,6,6,5.0
+U714042,55-64,Low,HS or less,iPhone,Sometimes,Authenticator app,Occasionally,Default,Sometimes,Never,When reminded,No,None,2,12.0,3.0,42.0,65.9,Yes,7,6,8,9,3.7
+U663842,25-34,Low,HS or less,Windows PC,Sometimes,Authenticator app,Never,Default,Often,Monthly,Delayed,No,None,3,6.0,4.0,22.0,82.9,No,9,7,7,6,4.9
+U788771,65,Medium,HS or less,iPhone,Never,SMS,Once,Some changes,Never,Daily,Delayed,Yes,Built-in only,2,8.0,,54.0,69.5,Yes,9,6,8,5,5.6
+U972531,18-24,Medium,Bachelor's,Android,Tried once,SMS,Never,Default,Rarely,Monthly,Auto-update,Yes,Built-in only,2,16.0,4.0,28.0,78.7,Yes,6,9,6,4,5.3
+U755640,55-64,Low,Some college,Android,Never,SMS,Never,Default,Sometimes,Never,Auto-update,Yes,Built-in only,3,7.0,4.0,35.0,79.1,Yes,6,6,5,6,4.8
+U211257,35-44,Medium,HS or less,Android,Tried once,Authenticator app,Monthly,Mostly hardened,Rarely,Monthly,When reminded,Yes,None,2,13.0,2.0,100.0,50.8,No,7,9,9,5,5.4
+U566262,55-64,Medium,HS or less,iPhone,Never,SMS,Never,Default,Often,Monthly,Auto-update,No,None,2,10.0,4.0,22.0,80.7,Yes,6,6,7,6,4.2
+U708312,45-54,High,Some college,Android,Regularly,Authenticator app,Monthly,Some changes,Never,Weekly,When reminded,Yes,None,2,,3.0,53.0,56.2,Yes,4,6,4,4,2.6
+U096710,55-64,Low,Bachelor's,Windows PC,Never,None,Monthly,Some changes,Rarely,Never,Auto-update,Yes,Built-in only,0,13.0,3.0,46.0,53.3,No,6,5,6,7,3.3
+U986531,25-34,High,Bachelor's,Mac,Regularly,Authenticator app,Once,Mostly hardened,Rarely,Weekly,Auto-update,Yes,None,0,15.0,3.0,68.0,48.8,No,5,7,5,4,4.7
+U741996,18-24,Medium,Graduate,Windows PC,Tried once,None,Occasionally,Default,Sometimes,Weekly,Delayed,No,Built-in only,4,5.0,3.0,39.0,85.7,Yes,7,8,6,7,4.2
+U366343,65,Low,Some college,Mac,Never,SMS,Never,Mostly hardened,Never,Weekly,Delayed,Yes,None,3,4.0,4.0,62.0,63.6,No,10,7,7,7,4.3
+U227005,18-24,Medium,Some college,iPhone,Never,SMS,Never,Mostly hardened,Never,Monthly,Delayed,No,Built-in only,3,11.0,4.0,79.0,63.1,Yes,8,8,8,5,6.7
+U745869,55-64,Medium,Some college,iPhone,Regularly,None,Never,Mostly hardened,Rarely,Never,Delayed,Yes,None,2,8.0,3.0,91.0,66.1,Yes,8,8,7,7,5.2
+U299640,55-64,Medium,Bachelor's,Windows PC,Never,Authenticator app,Occasionally,Default,Sometimes,Weekly,When reminded,Yes,None,3,2.0,3.0,29.0,75.4,Yes,7,7,6,8,4.2
+U170288,18-24,Low,,Windows PC,Never,None,Occasionally,Default,Sometimes,Monthly,Delayed,Yes,None,3,5.0,2.0,44.0,81.9,Yes,9,7,5,9,4.4
+U934259,25-34,Low,,Mac,Never,SMS,Never,Some changes,Sometimes,Never,Auto-update,No,None,4,5.0,,58.0,75.2,No,8,9,3,7,4.3
+U072568,25-34,Medium,HS or less,Mac,Never,Authenticator app,Occasionally,Default,Sometimes,Monthly,Delayed,No,Built-in only,0,7.0,,34.0,57.7,No,5,6,6,7,2.8
+U060709,45-54,Medium,Some college,Mac,Never,SMS,Occasionally,Some changes,Rarely,Never,Delayed,Yes,Built-in only,1,10.0,2.0,51.0,57.9,Yes,8,7,3,5,3.3
+U365931,65,Low,HS or less,Android,Tried once,None,Never,Default,Never,Monthly,When reminded,Yes,Built-in only,1,10.0,4.0,31.0,75.9,Yes,7,6,5,9,4.6
+U720570,45-54,High,Some college,Android,Regularly,SMS,Once,Mostly hardened,Sometimes,Daily,Auto-update,No,Built-in only,1,10.0,3.0,65.0,49.4,No,4,8,6,4,4.4
+U424139,25-34,Medium,Some college,iPhone,Never,None,Once,Default,Rarely,Weekly,When reminded,Yes,None,3,8.0,4.0,37.0,77.2,No,7,6,5,7,4.9
+U677289,18-24,Low,Bachelor's,Windows PC,Never,Authenticator app,Never,Some changes,Never,Never,When reminded,No,Built-in only,3,8.0,4.0,44.0,85.3,No,9,7,6,7,4.0
+U570613,65,Medium,Graduate,Windows PC,Regularly,None,Occasionally,Default,Rarely,Never,When reminded,No,,1,12.0,3.0,39.0,61.0,No,6,8,5,2,5.3
+U902851,18-24,Low,Bachelor's,Windows PC,Never,SMS,Never,Default,Often,Never,Delayed,Yes,Built-in only,4,11.0,3.0,22.0,100.0,No,8,7,2,7,3.4
+U310144,35-44,High,Some college,iPad/Tablet,Tried once,Authenticator app,Monthly,Mostly hardened,Rarely,Monthly,Auto-update,Yes,Built-in only,1,8.0,1.0,71.0,43.0,No,6,5,8,4,5.1
+U128940,18-24,High,Some college,Android,Tried once,Authenticator app,Monthly,Some changes,Never,Monthly,Auto-update,Yes,None,0,8.0,3.0,55.0,40.9,No,5,9,5,2,5.3
+U373395,55-64,Low,Some college,Android,Sometimes,None,Never,Some changes,Sometimes,Monthly,Delayed,No,Built-in only,2,8.0,3.0,56.0,76.1,No,8,9,5,5,5.1
+U929218,45-54,Low,Graduate,Android,Never,SMS,Once,Default,Rarely,Weekly,When reminded,Yes,None,4,9.0,4.0,34.0,76.2,Yes,8,7,8,6,6.4
+U151098,18-24,Medium,Some college,Windows PC,Regularly,SMS,Monthly,Mostly hardened,Rarely,Never,Delayed,No,Built-in only,2,14.0,2.0,80.0,57.4,No,9,7,9,5,6.5
+U198275,45-54,Medium,Some college,Android,Never,Authenticator app,Once,Default,Rarely,Daily,When reminded,Yes,Built-in only,2,8.0,5.0,22.0,71.3,No,7,9,7,5,5.5
+U094612,25-34,Low,Some college,Android,Tried once,Authenticator app,Never,Mostly hardened,Sometimes,Monthly,Delayed,No,Built-in only,2,12.0,4.0,66.0,70.8,Yes,9,8,7,9,5.4
+U725762,25-34,High,Bachelor's,iPad/Tablet,Never,Hardware key,Occasionally,Mostly hardened,Rarely,Never,Auto-update,Yes,None,3,11.0,3.0,84.0,65.7,Yes,5,6,6,6,4.6
+U431551,55-64,Medium,Some college,iPhone,Sometimes,Authenticator app,Occasionally,Mostly hardened,Often,Never,Auto-update,No,,3,15.0,,74.0,75.4,Yes,10,6,5,8,4.0
+U198823,25-34,Medium,Graduate,Android,Never,Authenticator app,Monthly,Some changes,Never,Weekly,When reminded,Yes,None,3,14.0,3.0,53.0,57.8,No,7,4,7,8,2.0
+U283104,18-24,Low,HS or less,Windows PC,Sometimes,Authenticator app,Never,Default,Never,Never,Delayed,Yes,Paid suite,2,13.0,5.0,44.0,61.3,Yes,8,5,4,9,4.0
+U358981,55-64,Low,Bachelor's,Windows PC,Never,Authenticator app,Never,Some changes,Never,Never,Delayed,Yes,Paid suite,3,12.0,4.0,45.0,74.1,Yes,8,7,5,10,3.2
+U143407,55-64,Low,HS or less,Android,Never,None,Never,Some changes,Rarely,Monthly,When reminded,Yes,None,6,5.0,2.0,59.0,100.0,Yes,7,10,5,9,4.7
+U130022,18-24,Medium,Bachelor's,Mac,Regularly,Authenticator app,Once,Default,Sometimes,Weekly,Auto-update,Yes,None,1,11.0,2.0,48.0,53.8,No,8,5,4,7,3.0
+U701466,55-64,Medium,Graduate,Android,Sometimes,Authenticator app,Never,Mostly hardened,Rarely,Never,Delayed,Yes,Built-in only,3,8.0,4.0,71.0,71.7,Yes,7,5,5,7,4.7
+U847012,18-24,Medium,,iPhone,Never,Hardware key,Never,Default,Often,Daily,When reminded,Yes,Built-in only,3,9.0,2.0,38.0,77.0,Yes,7,7,8,4,5.0
+U309087,25-34,Medium,Some college,Android,Sometimes,None,Never,Mostly hardened,Sometimes,Weekly,Auto-update,Yes,,4,4.0,5.0,68.0,84.6,No,9,6,7,7,4.4
+U082697,25-34,Medium,Bachelor's,Android,Sometimes,SMS,Monthly,Mostly hardened,Rarely,Monthly,When reminded,Yes,None,4,5.0,1.0,80.0,73.9,No,10,8,8,6,4.9
+U572781,25-34,Medium,HS or less,iPhone,Regularly,Authenticator app,Never,Default,Often,Never,Delayed,No,None,1,15.0,5.0,35.0,55.4,No,4,8,3,7,2.4
+U451335,45-54,Medium,Some college,iPad/Tablet,Never,SMS,Occasionally,Default,Rarely,Monthly,Auto-update,No,Built-in only,3,8.0,2.0,30.0,76.3,No,8,6,6,8,4.2
+U076281,18-24,High,Some college,iPhone,Sometimes,Authenticator app,Occasionally,Some changes,Never,Daily,When reminded,No,Built-in only,1,10.0,1.0,60.0,44.7,Yes,6,4,7,4,4.7
+U410462,18-24,Medium,Bachelor's,iPhone,Never,SMS,Once,Some changes,Never,Weekly,Auto-update,Yes,None,3,11.0,4.0,58.0,70.1,Yes,9,7,7,6,5.5
+U329939,35-44,Medium,HS or less,Android,Regularly,None,Never,Default,Rarely,Weekly,Delayed,Yes,Built-in only,3,11.0,5.0,42.0,68.7,Yes,8,6,4,7,3.9
+U100875,18-24,Medium,Some college,Windows PC,Sometimes,Authenticator app,Never,Default,Often,Never,Delayed,Yes,Built-in only,2,10.0,6.0,37.0,62.7,No,10,5,6,6,5.1
+U603150,25-34,Low,HS or less,Mac,Never,None,Never,Default,Never,Never,Delayed,No,None,5,8.0,4.0,37.0,92.9,Yes,7,7,5,5,4.4
+U103318,65,Medium,HS or less,iPhone,Never,Authenticator app,Monthly,Some changes,Rarely,Monthly,Delayed,Yes,None,2,,2.0,56.0,52.4,Yes,8,6,6,6,4.5
+U143407,55-64,Low,HS or less,Android,Never,None,Never,Some changes,Rarely,Monthly,When reminded,Yes,None,6,5.0,2.0,59.0,100.0,Yes,7,10,5,9,4.7
+U751599,35-44,Low,Some college,iPhone,Tried once,None,Never,Default,Never,Never,When reminded,Yes,None,5,8.0,3.0,33.0,96.6,Yes,9,6,6,8,5.2
+U295622,65,High,Graduate,Chromebook,Sometimes,SMS,Never,Some changes,Never,Daily,Delayed,No,None,1,16.0,4.0,42.0,51.5,No,8,6,8,5,5.5
+U839257,25-34,Low,HS or less,Windows PC,Tried once,None,Never,Some changes,Sometimes,Weekly,Delayed,Yes,None,5,7.0,4.0,60.0,83.4,No,10,8,6,9,6.0
+U072568,25-34,Medium,HS or less,Mac,Never,Authenticator app,Occasionally,Default,Sometimes,Monthly,Delayed,No,Built-in only,0,7.0,,34.0,57.7,No,5,6,6,7,2.8
