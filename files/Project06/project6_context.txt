@@ -1,0 +1,93 @@
+One-Page Handoff: Concept → Final Infographic Workflow
+1. Start With a Narrow, Actionable Concept
+Goal: One decision, one behavior, one moment.
+Define the concept as something a user does in real time
+(e.g., “before clicking,” “before sharing,” “before installing”)
+Avoid broad topics (“cybersecurity,” “privacy”)
+Ask:
+What should someone be able to decide or do in under 60 seconds?
+Deliverable:
+A one-sentence outcome statement:
+“By looking at this graphic, someone should be able to ___ in under 60 seconds.”
+2. Choose the Right Visual Logic (Before Designing)
+Pick one structure based on user behavior:
+Decision tree / flow → real-time choices
+Checklist → fast scanning & recall
+Timeline → cause → effect
+Framework → setup or habits
+Rule:
+If it’s used in the moment, prefer flow or checklist.
+3. Lock Constraints Early (Non-Negotiable)
+Write these down before any visuals:
+Format: (e.g., Instagram 1:1)
+Audience: beginner / non-technical
+Tone: calm, friendly, non-alarming
+Accessibility: high contrast, large fonts, simple icons
+Structure: top-to-bottom, max 4–6 sections
+Text rules: short labels only, no paragraphs
+Style: flat icons, limited palette, no decoration
+These constraints guide every decision and prevent scope creep.
+4. Create a Text-Only Content Blueprint
+No visuals yet. Text only.
+Include:
+Headline
+Optional subheading
+Steps / checklist items
+One clear decision rule
+One safe alternative action
+Optional short reminder
+Rules:
+One idea per line
+Plain language
+No examples
+No explanations
+If it’s confusing in text, it will be confusing visually.
+5. Design Two Structurally Different Approaches
+Example:
+Approach A: Vertical decision flow
+Approach B: Checklist + hard stop rule
+For each, define:
+Layout
+Sections
+Why it works
+Tradeoffs
+This gives you flexibility and strengthens justification for grading or stakeholders.
+6. Generate Images Using a Precise Prompt
+When prompting an image model:
+Always include:
+Format & platform (e.g., Instagram 1:1)
+Layout direction (top-to-bottom)
+Typography rules (large, readable, sans-serif)
+Color palette (explicit)
+Icon style (flat, line-based, consistent)
+Spacing guidance (generous whitespace)
+Exact text only (no paraphrasing allowed)
+Treat the prompt like design specs, not a creative brief.
+7. Evaluate Using 5 Fixed Criteria
+Review each image against:
+Clarity – Is the purpose obvious in 3 seconds?
+Hierarchy – Is the main action unmistakable?
+Readability – Can it be read on a phone?
+Consistency – Icons, colors, spacing aligned?
+Accuracy – Correct but not over-detailed?
+Fix only what improves these—avoid redesigns.
+8. Final Polish (No Layout Changes)
+Only allow:
+More whitespace
+Slight contrast increases
+Text simplification (micro-edits)
+Icon consistency fixes
+If you’re moving elements, you’re redesigning—not polishing.
+9. Produce a “One-Go” Final Prompt
+Once satisfied, write one final image prompt that:
+Includes all constraints
+Includes exact final wording
+Matches the chosen layout
+Could reasonably produce the result in one attempt
+This becomes your reusable template for future concepts.
+10. Submission-Ready Outputs
+At the end, you should have:
+Final infographic image
+One-sentence outcome statement
+1–2 sentence design justification
+This workflow for reuse

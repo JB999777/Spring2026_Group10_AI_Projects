@@ -1,0 +1,63 @@
+Final AI Image Generation Prompt:
+Create a clean, modern Instagram infographic in a 1:1 square format designed for beginner, non-technical users. The tone should be friendly, calm, and non-alarming, focused on helping people make a quick decision before clicking a link.
+Overall Layout
+Clear top-to-bottom vertical flow
+Generous whitespace and spacing between sections
+Rounded rectangular cards for checklist items
+A strong visual separation between checklist and final decision
+Mobile-first readability
+Typography
+Use a bold, highly readable sans-serif font
+Large headline text at the top
+Medium-large checklist text
+Extra-bold emphasis for “DON’T CLICK”
+High contrast between text and background
+No paragraphs, only short labels
+Color Palette
+Light neutral background (off-white or warm cream)
+Dark navy or charcoal text
+Soft light-blue cards for checklist items
+Yellow pill-shaped badge for “5-Second Check”
+Deep red background for the stop rule section
+White text on red background
+Muted yellow for the final reminder
+No gradients, shadows, or decorative textures
+Icon Style
+Flat, line-based icons only
+Consistent stroke width and visual weight
+Simple, universally recognizable symbols
+One icon per checklist row
+Icons aligned to the left of text
+Icons use the same color family as text (except warning icon)
+Exact Text Content (DO NOT modify or paraphrase):
+Headline (top, largest text):
+Before You Click
+Subheading (yellow badge below headline):
+5-Second Check
+Checklist Row 1:
+☐ I know who it’s from
+(Icon: simple user/profile)
+Checklist Row 2:
+☐ It’s not urgent or scary
+(Icon: warning triangle)
+Checklist Row 3:
+☐ The link looks right
+(Icon: chain link)
+Checklist Row 4:
+☐ No personal info asked
+(Icon: document with small lock)
+Transition:
+Small downward arrow centered below checklist
+Decision Section (large red rounded rectangle):
+Can’t check all?
+DON’T CLICK
+Open the app or website yourself
+Final Reminder (small rounded pill at bottom):
+Not sure = don’t click
+(Icon: lightbulb)
+Style Rules
+Calm, instructional, non-fear-based
+Clear hierarchy: headline → checklist → stop action → reminder
+Strong emphasis on “DON’T CLICK”
+No extra text, explanations, or decorative elements
+Clean, balanced, and accessible design
